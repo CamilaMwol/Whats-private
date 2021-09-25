@@ -1,9 +1,10 @@
 {
-    "name": "Bottus",
-    "description": " Whats-private.",
-    "keywords": [
-        "whats",
-        "private"
+    "name": "User-bot",
+    "description": "User-Bot",
+    "logo": "https://i.imgur.com/38wvsie.jpeg",
+    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/CamilaMwol/Whats-private",
+   
     ],
     "stack": "container",
     "env": {
