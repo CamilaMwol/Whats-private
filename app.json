@@ -5,7 +5,7 @@
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/CamilaMwol/Whats-private",
    
-    ],
+    
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
