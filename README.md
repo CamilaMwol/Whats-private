@@ -12,7 +12,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) and Follow.
 
 <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins sponcered by lyfe-blue?style=for-the-badge&logo=appveyor%22"/></a>
-<!-- 
+
 
 
 |   Active  |   Group commands    | 
