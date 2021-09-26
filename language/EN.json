@@ -32,7 +32,7 @@
             "BANNED": "```@{} kicked out of the group!```",
             "FAILED": "```Failed to add, Sent Invite Message```!",
             "GIVE_ME_USER": "*Give me a user!*",
-            "ADD_DESC": "Adds someone to the group.\n.add 919876543210",
+            "ADD_DESC": "Adds someone to the group.\n.add 917909139146",
             "ADDED": "```@{} added to the group!```",
             "ALREADY_PROMOTED": "```How can I make someone who is already admin?```",
             "PROMOTED": "```@{} admin role was given!```",
