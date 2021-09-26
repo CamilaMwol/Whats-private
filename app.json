@@ -1,11 +1,10 @@
 {
-    "name": "User-bot",
-    "description": "User-Bot",
-    "logo": "https://i.imgur.com/38wvsie.jpeg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/CamilaMwol/Whats-private",
-   
-    
+    "name": "Bottus",
+    "description": " Whatsapp bot.",
+    "keywords": [
+        "whatsapp",
+        "bot"
+    ],
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
@@ -13,7 +12,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 917909139146 (IN)",
+            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
             "required": false
         },
         "HANDLERS": {
@@ -133,7 +132,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "Line nokkuna,kannan 😌✌️"
+            "value": "🥰,lyfe00011"
         }
     },
     "addons": [
