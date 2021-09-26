@@ -31,7 +31,7 @@ Asena.addCommand(
     } else {
       if (match.length < 2) {
         return await message.sendMessage(
-          Lang.NEED_REPLY + " ```.filter 'sa' 'as'"
+          Lang.NEED_REPLY + " ```.filter 'hello' 'what you want?'"
         );
       }
       await FilterDb.setFilter(
