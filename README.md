@@ -45,44 +45,7 @@ Project created by <a href="https://github.com/CamilaMwol">CamilaMwol</a> to mak
 <br> 
 </p>
 
-|   Active  |   Group commands    | 
-:---------: | :-------------------| 
-|   ✔️   | Kick                  |
-|   ✔️   | Tag                   |
-|   ✔️   | Add                   |
-|   ✔️   | Warn                  |
-|   ✔️   | Vote                  |
-|   ✔️   | Invite                |
-|   ✔️   | Revoke                |     
-|   ✔️   | Demote                |
-|   ✔️   | Promote               |
-|   ✔️   | Banbye                |
-|   ✔️   | Goodbye               | 
-|   ✔️   | Welcome               | 
-|   ✔️   | Schedule              |
-|   ✔️   | Auto-mute             |
-|   ✔️   | Mute/Unmute           |
-|   ✔️   | Common/Diff           |
 
-
-|  Active | Dowloader commands    |
-|:-------:| :---------------------|
-|   ✔️   | Saavn                 |
-|   ✔️   | Upload                |
-|   ✔️   | Yta/Ytv               |
-|   ✔️   | Unsplash              |
-|   ✔️   | Mediafire             |
-|   ✔️   | Pinterest             |
-|   ✔️   | SoundCloud            |
-|   ✔️   | TikTok video          |
-|   ✔️   | Twitter video         |
-|   ✔️   | Facebook video        |
-|   ✔️   | Instagram story       |
-|   ✔️   | YouTube audio/video   |
-|   ✔️   | Instagram video/image |
-
-<br> 
-</p>
 
 ## Developers
   <div align="center">
