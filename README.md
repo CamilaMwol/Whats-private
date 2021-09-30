@@ -50,9 +50,9 @@ Project created by <a href="https://github.com/CamilaMwol">CamilaMwol</a> to mak
 ## Developers
   <div align="center">
     
-  [![CamilaMwol](https://i.imgur.com/QL6MobK.jpeg?size=100)](https://github.com/CamilaMwol) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----|----
-[CamilaMwol](https://github.com/CamilaMwol) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+  [![CamilaMwol](https://i.imgur.com/QL6MobK.jpeg?size=10)](https://github.com/CamilaMwol) | 
+
+[CamilaMwol](https://github.com/CamilaMwol) |
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
 
